@@ -1,13 +1,23 @@
-# README
-## This is the README for your extension "blueberry"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Blueberry theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![alt text](2019-02-06_16-35.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+## Install Linux
+```
+cd ~/.vscode-oss/extensions
+git clone https://github.com/dwrolvink/vscode-blueberry-theme.git
+```
+In VSCode:
+ - F1; Reload Window
+ - F1; Preferences: Color theme; select blueberry
+ 
+## Install Windows
+Same as above, bit the extensions folder is located elsewhere
+
+## Tip:
+If you want to edit the theme:
+ - Open ~/.vscode-oss/extensions/blueberry/themes/Blueberry-theme-color-theme.json
+ - Use F1; "Developer: Inspect TM Scopes" to find the scope names of the element you want the color changed of.
+ - Use F1; Reload Window to apply changes made to the theme
+ 
