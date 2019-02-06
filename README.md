@@ -15,6 +15,16 @@ In VSCode:
 ## Install Windows
 Same as above, bit the extensions folder is located elsewhere
 
+## Information about the screenshot
+User settings for this screenshot
+```
+{
+    "editor.fontFamily": "'SourceCodePro', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "workbench.colorTheme": "Blueberry-theme",
+    "editor.renderIndentGuides": false
+}
+```
+
 ## Tip:
 If you want to edit the theme:
  - Open ~/.vscode-oss/extensions/blueberry/themes/Blueberry-theme-color-theme.json
