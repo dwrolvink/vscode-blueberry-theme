@@ -1,6 +1,6 @@
 # Blueberry theme
 
-![alt text](2019-02-06_16-35.png)
+![alt text](2019-08-15_13-06.png)
 
 
 ## Install Linux
